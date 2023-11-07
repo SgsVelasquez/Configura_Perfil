@@ -53,7 +53,7 @@ public class view {
 	 * Impressoras.
 	 */
 	File arquivo = new File("\\\\rede\\diretorio\\local\\arquivo.txt"); // Diretorio de arquivo txt com as impressoras listadas em linhas.
-	protected static String comandoInstala = "cmd /c start cmd.exe /c \" rundll32 printui.dll PrintUIEntry /in /n \\\\ServidorImpressora\\"; // Comando para instalacao da impressora de rede. IMPORTANTE ADICIONAR O ENDEREÇO DO SERVIDOR
+	protected static String comandoInstala = "cmd /c start cmd.exe /c \" rundll32 printui.dll PrintUIEntry /in /n \\\\ServidorImpressora\\"; // Comando para instalacao da impressora de rede. IMPORTANTE ADICIONAR O ENDEREÇO DO SERVIDOR.
 	protected static String instalaImp1 = null; // Variavel de instalacao da impressora selecionada na 1ª caixa.
 	boolean principal = false; // Boolean da check box para saber se quer a impressora como principal no sistema.
 	protected static String comandoInstalaPrincipal = null; // comando gerado caso seja selecionado.
