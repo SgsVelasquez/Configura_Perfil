@@ -6,7 +6,7 @@
 <p>
  <a href="#objetivo">Objetivo</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
- <a href="#Modificações e Como Criar">Modificações e Como Criar</a> • 
+ <a href="#Modificações-e-Como-Criar">Modificações e Como Criar</a> • 
 </p>
 
 # Objetivo
@@ -16,6 +16,7 @@
 # Pré-requisitos
 
 <p> Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: </p>
+<a href="https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html"> JDK 19.0.2</a><br />
 <a href="https://www.eclipse.org/downloads/packages/release"> Eclipse IDE 2022.12</a><br />
 <a href="https://projects.eclipse.org/projects/tools.windowbuilder"> Eclipse WindowBuilder™ 1.11.0</a><br />
 <br />
